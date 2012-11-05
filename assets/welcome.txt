@@ -1,0 +1,5 @@
+Welcome to MetaWatch Spacers.
+
+This application provides spacers to allow more precise placement of the widgets on your MetaWatch.  You can add them to your screens just like a regular widget.
+
+Spacers come in a variety of sizes. Ranging from 8x8 all the way to 96x96.
